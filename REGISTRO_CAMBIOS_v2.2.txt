@@ -1,0 +1,7 @@
+TABLERO ESTRATÉGICO CAIMI v2.2.0
+- Analítica CIE-10/RIPS confinada exclusivamente a #/rips.
+- Corrección de superposición con menú lateral mediante montaje dentro de .main-content.
+- Filtros funcionales por vigencia, sexo, edad, servicio, alcance, condición, episodio y métrica.
+- Gráficas de género, edad, utilización, tendencia mensual, Pareto y mapa de calor.
+- Cohorte materno-perinatal y soporte para nota técnica fortalecidos.
+- Exportación CSV y trazabilidad de etiqueta original del diccionario.

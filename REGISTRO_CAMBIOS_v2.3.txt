@@ -1,0 +1,9 @@
+TABLERO ESTRATÉGICO CAIMI v2.3.0 - VERSIÓN FINAL
+Fecha: 23 de julio de 2026
+
+Cambios exclusivos autorizados:
+1. Actualización de la identificación del aplicativo a v2.3.0.
+2. Unificación del lenguaje de cierre como versión final en la interfaz.
+3. Eliminación del panel de entregables regenerados en la ruta Documentos y descargas.
+4. Publicación exclusiva de cuatro entregables finales: informe Word, presentación PowerPoint, anexos Excel y matriz de trazabilidad Excel.
+5. No se modificaron la arquitectura, el diseño, los módulos analíticos, los filtros, las cifras ni la lógica funcional.
