@@ -1,11 +1,1 @@
-TABLERO ESTRATÉGICO CAIMI v1.1.6
-
-1. Conserve una copia de seguridad de la versión v1.1.5.
-2. Elimine el index.html anterior del repositorio.
-3. Suba index.html, 404.html, .nojekyll y version.txt a la raíz del repositorio CAIMI.
-4. En Settings > Pages use main / (root).
-5. Abra la página con Ctrl+F5.
-
-La arquitectura visual y funcional de la v1.1.5 se conserva. Esta versión actualiza datos, fórmulas, escenarios, trazabilidad y descargas finales.
-El módulo Cargar archivos trabaja localmente con IndexedDB. Los archivos no se suben a GitHub ni a servidores externos.
-El modelo analítico usa una nueva clave local caimi:model:v1.1.6 para evitar que datos guardados de versiones previas sobrescriban la base final.
+Publicar todos los archivos en la raíz de GitHub Pages. Después de publicar, realizar Ctrl+F5. Versión 2.2.0.
